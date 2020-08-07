@@ -1,0 +1,4 @@
+package org.sample.benchmark.generated;
+public class CacheBenchmark_AbstractBenchmark_ThreadState_jmhType extends CacheBenchmark_AbstractBenchmark_ThreadState_jmhType_B3 {
+}
+
